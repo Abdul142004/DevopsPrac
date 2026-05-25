@@ -1,4 +1,4 @@
-name: githubActions
+name: Hello 
 
 on: 
   push: 
